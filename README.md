@@ -12,6 +12,6 @@ Shitty things I did here:
 
 Here are some pictures of what the plugin looked like if it can motivate some people :)
 
-![Squid + Main Inventory](https://github.com/OAleDr/Advanced-FlyingPets/blob/newVersion/images/Inventory.gif)
-![Dragon](https://github.com/OAleDr/Advanced-FlyingPets/blob/newVersion/images/Dragon.gif)
+![Squid + Main Inventory](https://github.com/OAleDr/FlyingPets/blob/develop/images/Inventory.gif)
+![Dragon](https://github.com/OAleDr/FlyingPets/blob/develop/images/Dragon.gif)
 The dragon can also shoot fireballs.
